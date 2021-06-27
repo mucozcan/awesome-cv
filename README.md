@@ -30,11 +30,15 @@
 ----------------
 
 ## Deep Learning:
-
+### General
 * [Machine Learning & Deep Learning Fundamentals](https://youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+### Object Detection
+* [PyTorch Tutorial to Object Detection.(SSD)](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
+----------------
+## Video Streaming
+* [Repo of collected sources and projects related to GStreamer](https://github.com/jackersson/awesome-gstreamer)
 
 ----------------
-
 ## Deployment:
 
 * [Optimizing TensorFlow Models for Serving (Google Cloud AI Huddle)](https://www.youtube.com/watch?v=fesdKLTZFBE)
