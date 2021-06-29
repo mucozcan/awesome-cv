@@ -22,10 +22,13 @@
 ---------------
 
 ## Stereo: 
-
+* [Object Distance Measurement By Stereo Vision](https://towardsdatascience.com/object-distance-measurement-by-stereo-vision-37897a7ecb62   )
+* [Variants of depth cameras](https://heartbeat.fritz.ai/activestereonet-the-first-deep-learning-solution-for-active-stereo-systems-f52ed2c6cd2)
 * [Stereo Correspondence](https://youtu.be/kxsvG4sSuvA)
 
 * [Image Rectification](https://upload.wikimedia.org/wikipedia/commons/2/2d/Image_rectification.png)
+
+* [ActiveStereoNet: The first deep learning solution for active stereo systems](https://heartbeat.fritz.ai/activestereonet-the-first-deep-learning-solution-for-active-stereo-systems-f52ed2c6cd2)
 
 ----------------
 
@@ -50,3 +53,9 @@
 * [An introduction to MLOps on Google Cloud](https://www.youtube.com/watch?v=6gdrwFMaEZ0)
 
 * [Accelerating Machine Learning App Development with Kubeflow Pipelines (Cloud Next '19)](https://www.youtube.com/watch?v=TZ1lGrJLEZ0)
+
+
+----------------------------------------------------------------
+## OOP:
+* [Interfaces and Metaclasses in Python     ](https://www.godaddy.com/engineering/2018/12/20/python-metaclasses/#:~:text=Unfortunately%2C%20Python%20doesn't%20have,in%20order%20to%20be%20initialized.)
+* [Actor Model Design Pattern(Python)](https://pykka.readthedocs.io/en/stable/)
