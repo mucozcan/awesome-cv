@@ -146,7 +146,7 @@
 
 * [GStreamer UDP stream examples](https://gist.github.com/reinzor/812a1dadd62dcf2a309c9c99af92244f)
 
-* [RTSP test stream URL](rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov)
+* RTSP test stream URL: rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov
 
 * [Install All Essential Media Codecs in Ubuntu With This Single Command ](https://itsfoss.com/install-media-codecs-ubuntu/)
 
