@@ -68,7 +68,9 @@
 
 * [ActiveStereoNet: The first deep learning solution for active stereo systems](https://heartbeat.fritz.ai/activestereonet-the-first-deep-learning-solution-for-active-stereo-systems-f52ed2c6cd2)
 
-* [Camera Calibration](https://youtube.com/playlist?list=PL2zRqk16wsdoCCLpou-dGo7QQNks1Ppzo)
+* [What Is Camera Calibration?](https://www.mathworks.com/help/vision/ug/camera-calibration.html)
+
+* [Camera Calibration Video Series](https://youtube.com/playlist?list=PL2zRqk16wsdoCCLpou-dGo7QQNks1Ppzo)
 
 * [CS6320: 3D Computer Vision Project 2 Stereo and 3D Reconstruction from Disparity](http://www.sci.utah.edu/~acoste/uou/3dcv/project2/ArthurCOSTE_project2.pdf)
 
@@ -81,8 +83,22 @@
 * [Stereo Correspondence Algorithms](https://youtu.be/kxsvG4sSuvA)
 
 * [Middlebury Stereo Vision Page](https://vision.middlebury.edu/stereo/)
+
+* [Multiple View Geometry in Computer Vision Second Edition](http://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf)
+
+* [A video that includes techniques for improvement accuracy of stereo system precision](https://www.youtube.com/watch?v=hUVyDabn1Mg&list=PL2zRqk16wsdoCCLpou-dGo7QQNks1Ppzo&index=5)
+
+* [How to verify the correctness of calibration of a webcam?](https://stackoverflow.com/questions/12794876/how-to-verify-the-correctness-of-calibration-of-a-webcam/12821056#12821056)
+
+* [Is reprojection error enough in stereo calibration?](https://stackoverflow.com/questions/42434420/is-reprojection-error-enough-in-stereo-calibration?rq=1)
+
+ * [Does a smaller reprojection error always means better calibration?](https://stackoverflow.com/questions/11918315/does-a-smaller-reprojection-error-always-means-better-calibration?rq=1 )
 ---------------
+
 ## [Photogrammetry and 3D Reconstruction](#photogrammetry-and-3d-reconstruction):
+
+* [Zhaoyang Wang's Homepage](https://sites.google.com/cardinalmail.cua.edu/wangz/)
+
 * [AliceVision Framework](https://github.com/alicevision/AliceVision)
 
 * [PCL(Point Cloud Library)](https://github.com/PointCloudLibrary/pcl)
@@ -203,7 +219,9 @@
 * [Middlebury Stereo Datasets](https://vision.middlebury.edu/stereo/data/)
 
 * [VisDrone Aerial Dataset](https://github.com/VisDrone/VisDrone-Dataset)
+
 -------------
+
 ## [Mix of interesting and cool stuff](#mix-content)
 
 * [Human Vision](https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2)
@@ -211,6 +229,12 @@
 * [Mercedes-Benz MAGIC BODY CONTROL | S-Class](https://www.youtube.com/watch?v=ScpgI1w5F6A)
 
 * [LiDAR vs Computer Vision - Why Tesla Autonomy Will Win](youtube.com/watch?v=WGm5Yc4JWug)
+
+* [How AI Powers Self-Driving Tesla with Elon Musk and Andrej Karpathy](https://www.youtube.com/watch?v=FnFksQo-yEY)
+
+* [Andrej Karpathy - AI for Full-Self Driving at Tesla](https://www.youtube.com/watch?v=hx7BXih7zx8)
+
+* [OpenPilot](https://github.com/commaai/openpilot)
 
 ---
 
