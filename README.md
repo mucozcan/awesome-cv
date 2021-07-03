@@ -93,6 +93,8 @@
 * [Is reprojection error enough in stereo calibration?](https://stackoverflow.com/questions/42434420/is-reprojection-error-enough-in-stereo-calibration?rq=1)
 
  * [Does a smaller reprojection error always means better calibration?](https://stackoverflow.com/questions/11918315/does-a-smaller-reprojection-error-always-means-better-calibration?rq=1 )
+
+ * [What to Expect from a Stereo Vision System](https://zone.ni.com/reference/en-XX/help/372916T-01/nivisionconcepts/stereo_what_to_expect_from_a_stereo_vision_system/)
 ---------------
 
 ## [Photogrammetry and 3D Reconstruction](#photogrammetry-and-3d-reconstruction):
@@ -247,6 +249,8 @@
 * [Make Sense - Image Annotation Tool](https://www.makesense.ai/)
 
 * [Netron - Neural Network Viewer](https://netron.app/)
+
+* [Lens Focal Length and Stereo Baseline Calculator](https://nerian.com/support/calculator)
 
 -------
 
