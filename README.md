@@ -92,9 +92,15 @@
 
 * [Is reprojection error enough in stereo calibration?](https://stackoverflow.com/questions/42434420/is-reprojection-error-enough-in-stereo-calibration?rq=1)
 
- * [Does a smaller reprojection error always means better calibration?](https://stackoverflow.com/questions/11918315/does-a-smaller-reprojection-error-always-means-better-calibration?rq=1 )
+* [Does a smaller reprojection error always means better calibration?](https://stackoverflow.com/questions/11918315/does-a-smaller-reprojection-error-always-means-better-calibration?rq=1 )
 
- * [What to Expect from a Stereo Vision System](https://zone.ni.com/reference/en-XX/help/372916T-01/nivisionconcepts/stereo_what_to_expect_from_a_stereo_vision_system/)
+* [What to Expect from a Stereo Vision System](https://zone.ni.com/reference/en-XX/help/372916T-01/nivisionconcepts/stereo_what_to_expect_from_a_stereo_vision_system/)
+
+* [The Depth I: Stereo Calibration and Rectification(OpenCV)](https://python.plainenglish.io/the-depth-i-stereo-calibration-and-rectification-24da7b0fb1e0)
+
+* [The Depth II: Block Matching(OpenCV)](https://python.plainenglish.io/the-depth-ii-block-matching-d599e9372712)
+
+* [Calibration of Stereo Cameras for Mobile Robots](http://www.diag.uniroma1.it//~iocchi/stereo/calib.html#:~:text=Calibrating%20stereo%20cameras%20is%20usually,Closed%20form%20solution.)
 ---------------
 
 ## [Photogrammetry and 3D Reconstruction](#photogrammetry-and-3d-reconstruction):
