@@ -101,6 +101,10 @@
 * [The Depth II: Block Matching(OpenCV)](https://python.plainenglish.io/the-depth-ii-block-matching-d599e9372712)
 
 * [Calibration of Stereo Cameras for Mobile Robots](http://www.diag.uniroma1.it//~iocchi/stereo/calib.html#:~:text=Calibrating%20stereo%20cameras%20is%20usually,Closed%20form%20solution.)
+
+* [Disparity map post-filtering](https://docs.opencv.org/master/d3/d14/tutorial_ximgproc_disparity_filtering.html)
+
+* [Effect of Baseline On Stereo Vision Systems](https://scholarworks.calstate.edu/downloads/rx913p90h)
 ---------------
 
 ## [Photogrammetry and 3D Reconstruction](#photogrammetry-and-3d-reconstruction):
