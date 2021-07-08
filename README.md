@@ -3,6 +3,8 @@
 
 * [General Sources(Computer Vision)](#general-sources)
 
+* [Photography and Camera Specs](#cam-specs)
+
 * [3D Laser Scanning and Structured Light](#3d-laser-scanning-and-structured-light)
 
 * [Stereo Vision](#stereo-vision)
@@ -13,6 +15,7 @@
     * [General](#dl-general)
     * [CNNs (Theory)](#cnn-theory)
     * [Object Detection](#obj-det)
+    * [Pose Estimation](#pose-estimation)
     * [GANs](#gans)
 
 * [Video Streaming](#video-streaming)
@@ -44,7 +47,28 @@
 * [First Principles of Computer Vision Youtube Channel](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/videos)
 
 * [Autonomous Vision Group, CVPR 2020 Keynote Talks](https://youtube.com/playlist?list=PLeCNfJWZKqxsIpTbl4e677aOWSnnv5NCm)
+
+
 -------------
+## [Photography and Camera Specs](#cam-specs)
+
+* [Angle of view](https://en.wikipedia.org/wiki/Angle_of_view#Derivation_of_the_angle-of-view_formula)
+
+* [What Is Exposure? (A Beginner’s Guide)](https://photographylife.com/what-is-exposure)
+
+* [Rolling Shutter vs Global Shutter: What’s the difference?](https://www.premiumbeat.com/blog/know-the-basics-of-global-shutter-vs-rolling-shutter/)
+
+* [What are Global Shutter and Rolling shutter? How to choose the one that fits the application?](https://www.e-consystems.com/blog/camera/what-are-global-shutter-and-rolling-shutter-how-to-choose-the-one-that-fits-the-application/)
+
+* [What Is Focal Length in Photography?](https://photographylife.com/what-is-focal-length-in-photography)
+
+* [Focal Length vs Effective Focal Length](https://www.photographytalk.com/focal-length-vs-effective-focal-length)
+
+* [What is a pinhole camera?](https://www.pinhole.cz/en/pinholecameras/whatis.html)
+
+* [What is Lens Distortion?](https://photographylife.com/what-is-distortion  )
+
+---
 
 ## [3D Laser Scanning and Structured Light](#3d-laser-scanning-and-structured-light):
 
@@ -105,6 +129,13 @@
 * [Disparity map post-filtering](https://docs.opencv.org/master/d3/d14/tutorial_ximgproc_disparity_filtering.html)
 
 * [Effect of Baseline On Stereo Vision Systems](https://scholarworks.calstate.edu/downloads/rx913p90h)
+
+* [How field of view changes depth estimation in stereo vision?](https://stackoverflow.com/questions/19421003/how-field-of-view-changes-depth-estimation-in-stereo-vision)
+
+* [Design parameters for adjusting the visual field of binocular stereo cameras](https://riunet.upv.es/bitstream/handle/10251/84981/Rovira%20-%20Design%20parameters%20for%20adjusting%20the%20visual%20field%20of%20binocular%20stereo%20cameras.pdf?sequence=1)
+
+* [Large-Field-of-View Stereo for Automotive Applications](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.101.2554&rep=rep1&type=pdf)
+
 ---------------
 
 ## [Photogrammetry and 3D Reconstruction](#photogrammetry-and-3d-reconstruction):
@@ -159,6 +190,17 @@
 * [An Improved Faster R-CNN for Small Object Detection](https://www.researchgate.net/profile/Zengyan-Wu/publication/334904435_An_Improved_Faster_R-CNN_for_Small_Object_Detection/links/5e917edf299bf130798fb809/An-Improved-Faster-R-CNN-for-Small-Object-Detection.pdf)
 
 
+### [Pose/Gaze Estimation](#pose-estimation)
+* [Real time human head pose estimation using TensorFlow and OpenCV](https://github.com/yinguobing/head-pose-estimation)
+
+* [GazeFollow: Where are they looking?(2015)](http://gazefollow.csail.mit.edu/index.html)
+
+* [Where are they looking? PyTorch Implementation](https://github.com/rohitgajawada/Where-are-they-looking-PyTorch)
+
+* [Believe It or Not, We Know What You Are Looking at!(Paper-2018)](https://arxiv.org/pdf/1907.02364.pdf)
+
+* [Believe It or Not, We Know What You Are Looking at!(PyTorch Implementation)](https://github.com/svip-lab/GazeFollowing)
+
 ### [GANs](#gans)
 * [A Friendly Introduction to Generative Adversarial Networks ](https://www.youtube.com/watch?v=8L11aMN5KY8)
 
@@ -205,6 +247,8 @@
 
 * [TensorFlow Lite Flutter Plugin](https://github.com/am15h/tflite_flutter_plugin)
 
+* [FFmpeg plugin for Flutter](https://github.com/tanersener/flutter-ffmpeg)
+
 * [NVIDIA Jetson Nano and NVIDIA Jetson AGX Xavier for Kubernetes (K8s) and machine learning (ML) for smart IoT](https://github.com/helmut-hoffer-von-ankershoffen/jetson)
 
 ----------------------------------------------------------------
@@ -223,6 +267,8 @@
 
 ## [Digital Image Processing](#dip):
 * [Intro to Digital Image Processing (ECSE-4540) Lectures, Spring 2015](https://youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
+
+* [Image Processing: What are occlusions?](https://stackoverflow.com/a/2764623/14884085)
 
 ---
 
