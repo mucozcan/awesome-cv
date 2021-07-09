@@ -169,13 +169,30 @@
 * [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 
 ### [CNNs (Theory)](#cnn-theory)
+
+* [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
 * [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
 
 * [How convolutional neural networks work, in depth](https://www.youtube.com/watch?v=JB8T_zN7ZC0)
 
 * [Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
+* [What is the vanishing gradient problem?](https://www.quora.com/What-is-the-vanishing-gradient-problem)
+
+* [Deep Residual Learning for Image Recognition (Paper Explained)](https://www.youtube.com/watch?v=GWt6Fu05voI)
+
+* [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic#convolution-arithmetic)
+
+* [A Gentle Introduction to Batch Normalization for Deep Neural Networks](https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/)
+
 ### [Object Detection](#obj-det)
+
+* [Zero to Hero: Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
+
+* [Non-maximum Suppression (NMS)](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)
+
+* [Selective Search for Object Detection | R-CNN](https://www.geeksforgeeks.org/selective-search-for-object-detection-r-cnn/)
 
 * [PyTorch Tutorial to Object Detection.(SSD)](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
 
@@ -294,6 +311,7 @@
 
 * [OpenPilot](https://github.com/commaai/openpilot)
 
+* [Yannic Kilcher Youtube Channel](https://www.youtube.com/c/YannicKilcher/videos)
 ---
 
 ## [Tools](#tools)
