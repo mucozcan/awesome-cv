@@ -17,6 +17,7 @@
     * [Object Detection](#obj-det)
     * [Pose Estimation](#pose-estimation)
     * [GANs](#gans)
+    * [RNNs](#rnns)
 
 * [Video Streaming](#video-streaming)
 
@@ -168,7 +169,7 @@
 
 * [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 
-### [CNNs (Theory)](#cnn-theory)
+### [CNNs](#cnn-theory)
 
 * [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
@@ -185,6 +186,31 @@
 * [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic#convolution-arithmetic)
 
 * [A Gentle Introduction to Batch Normalization for Deep Neural Networks](https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/)
+
+
+
+### [GANs](#gans)
+  
+* [A Friendly Introduction to Generative Adversarial Networks ](https://www.youtube.com/watch?v=8L11aMN5KY8)
+
+* [Image Deblurring using Generative Adversarial Networks](https://github.com/KupynOrest/DeblurGAN)
+
+
+### [RNNs](#rnns)
+
+* [Recurrent Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=yZv_yRgOvMg)
+
+* [MIT 6.S191: Recurrent Neural Networks](https://www.youtube.com/watch?v=qjrad0V0uJE)
+
+* [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI)
+
+* [An introduction to ConvLSTM](https://medium.com/neuronio/an-introduction-to-convlstm-55c9025563a7)
+
+* [What is the difference between ConvLSTM and CNN LSTM?](https://www.quora.com/What-is-the-difference-between-ConvLSTM-and-CNN-LSTM)
+
+* [Video Classification with CNN, RNN, and PyTorch](https://medium.com/howtoai/video-classification-with-cnn-rnn-and-pytorch-abe2f9ee031)
+
+* [PyTorch Implementation of ConvLSTM Cell](https://github.com/jhhuang96/ConvLSTM-PyTorch)
 
 ### [Object Detection](#obj-det)
 
@@ -207,7 +233,7 @@
 * [An Improved Faster R-CNN for Small Object Detection](https://www.researchgate.net/profile/Zengyan-Wu/publication/334904435_An_Improved_Faster_R-CNN_for_Small_Object_Detection/links/5e917edf299bf130798fb809/An-Improved-Faster-R-CNN-for-Small-Object-Detection.pdf)
 
 
-### [Pose/Gaze Estimation](#pose-estimation)
+### [Pose/Gaze Estimation](#pose-estimation)    
 * [Real time human head pose estimation using TensorFlow and OpenCV](https://github.com/yinguobing/head-pose-estimation)
 
 * [GazeFollow: Where are they looking?(2015)](http://gazefollow.csail.mit.edu/index.html)
@@ -218,10 +244,6 @@
 
 * [Believe It or Not, We Know What You Are Looking at!(PyTorch Implementation)](https://github.com/svip-lab/GazeFollowing)
 
-### [GANs](#gans)
-* [A Friendly Introduction to Generative Adversarial Networks ](https://www.youtube.com/watch?v=8L11aMN5KY8)
-
-* [Image Deblurring using Generative Adversarial Networks](https://github.com/KupynOrest/DeblurGAN)
 ----------------
 ## [Video Streaming](#video-streaming)
 
@@ -294,6 +316,10 @@
 * [Middlebury Stereo Datasets](https://vision.middlebury.edu/stereo/data/)
 
 * [VisDrone Aerial Dataset](https://github.com/VisDrone/VisDrone-Dataset)
+
+* [HMDB: a large human motion database](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#overview)
+
+* [UCF101 – Action Recognition Data Set](https://www.crcv.ucf.edu/research/data-sets/ucf101/)
 
 -------------
 
