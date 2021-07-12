@@ -232,6 +232,10 @@
 
 * [An Improved Faster R-CNN for Small Object Detection](https://www.researchgate.net/profile/Zengyan-Wu/publication/334904435_An_Improved_Faster_R-CNN_for_Small_Object_Detection/links/5e917edf299bf130798fb809/An-Improved-Faster-R-CNN-for-Small-Object-Detection.pdf)
 
+* [Real-time Hand-Detection using Neural Networks (SSD) on Tensorflow](https://github.com/victordibia/handtracking)
+
+* [Object Detection with RetinaNet(Keras)](https://keras.io/examples/vision/retinanet/)
+
 
 ### [Pose/Gaze Estimation](#pose-estimation)    
 * [Real time human head pose estimation using TensorFlow and OpenCV](https://github.com/yinguobing/head-pose-estimation)
