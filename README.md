@@ -275,6 +275,10 @@
 
 * [Accelerated GStreamer User Guide](https://developer.download.nvidia.com/embedded/L4T/r32_Release_v1.0/Docs/Accelerated_GStreamer_User_Guide.pdf?i_Y2wpVYeC4aKDkehQNi7nZijaqPu-zUqO228keXSjtyD_7FHVxEAYFmYhzbmT-MgdoAimuP1FuS62KQPIADER2TQ0BaCa0MJNpQLjDYzEzqhZtQEKo6q2RiyXtc4vhbHiUxfvJ8mfLS8Sn-_USkttoqhaLmk5Epe_--Sh4rapNOZ-lHYq8)
 
+* [How to Build Gstreamer RTSP Server](https://askubuntu.com/a/1095607)
+
+* [How to make a Raspberry Pi an RTSP streamer and how to consume this?](https://gist.github.com/lemonlatte/799a43288b0e093f9c95ad83ae4962a3)
+
  ----------------
 ## [Product Level](#product-level):
 
