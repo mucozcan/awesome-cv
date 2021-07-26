@@ -42,7 +42,6 @@
 
 * [Computer Vision for Visual Effects (ECSE-6969) Lectures Spring 2014](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a)
 
-
 * [The Ancient Secrets of Computer Vision](https://youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)
 
 * [First Principles of Computer Vision Youtube Channel](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/videos)
@@ -171,6 +170,8 @@
 
 ### [CNNs](#cnn-theory)
 
+* [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+
 * [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 * [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
@@ -279,6 +280,8 @@
 
 * [How to make a Raspberry Pi an RTSP streamer and how to consume this?](https://gist.github.com/lemonlatte/799a43288b0e093f9c95ad83ae4962a3)
 
+* [How to setup an RTSP server on Headless Raspberry Pi and stream RPi Camera data using GStreamer?](https://github.com/mucozcan/rpi-rtsp-stream)
+
  ----------------
 ## [Product Level](#product-level):
 
@@ -316,6 +319,16 @@
 * [Intro to Digital Image Processing (ECSE-4540) Lectures, Spring 2015](https://youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
 
 * [Image Processing: What are occlusions?](https://stackoverflow.com/a/2764623/14884085)
+
+* [Ordering coordinates clockwise with Python and OpenCV](https://www.pyimagesearch.com/2016/03/21/ordering-coordinates-clockwise-with-python-and-opencv/)
+
+* [OpenCV Object Tracking](https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/)
+
+* [Principal Component Analysis](https://www.youtube.com/watch?v=M6fBAzcw1Ps)
+
+* [Optical Flow in OpenCV (C++/Python)](https://learnopencv.com/optical-flow-in-opencv/#sparse-optical-flow-lk)
+
+* [Faster alternatives for calcOpticalFlowSF](https://stackoverflow.com/a/16120630/14884085)
 
 ---
 
@@ -365,3 +378,5 @@
 ## [Linux](#linux)
 
 * [Renaming files in a folder to sequential numbers](https://stackoverflow.com/a/34153342)
+
+* [How to Connect to a Raspberry Pi Remotely via SSH](https://howchoo.com/g/mgi3mdnlnjq/how-to-log-in-to-a-raspberry-pi-via-ssh)
