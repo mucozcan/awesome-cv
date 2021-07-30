@@ -19,6 +19,8 @@
     * [GANs](#gans)
     * [RNNs](#rnns)
 
+* [Math](#math)
+
 * [Video Streaming](#video-streaming)
 
 * [Product Level](#product-level)
@@ -58,6 +60,8 @@
 
 * [Rolling Shutter vs Global Shutter: What’s the difference?](https://www.premiumbeat.com/blog/know-the-basics-of-global-shutter-vs-rolling-shutter/)
 
+* [EXPOSURE TRIANGLE: APERTURE, ISO & SHUTTER SPEED](https://www.cambridgeincolour.com/tutorials/camera-exposure.htm)
+
 * [What are Global Shutter and Rolling shutter? How to choose the one that fits the application?](https://www.e-consystems.com/blog/camera/what-are-global-shutter-and-rolling-shutter-how-to-choose-the-one-that-fits-the-application/)
 
 * [What Is Focal Length in Photography?](https://photographylife.com/what-is-focal-length-in-photography)
@@ -66,7 +70,7 @@
 
 * [What is a pinhole camera?](https://www.pinhole.cz/en/pinholecameras/whatis.html)
 
-* [What is Lens Distortion?](https://photographylife.com/what-is-distortion  )
+* [What is Lens Distortion?](https://photographylife.com/what-is-distortion )
 
 ---
 
@@ -250,6 +254,11 @@
 * [Believe It or Not, We Know What You Are Looking at!(PyTorch Implementation)](https://github.com/svip-lab/GazeFollowing)
 
 ----------------
+## [Math](#math)
+
+* [Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+
+----------------
 ## [Video Streaming](#video-streaming)
 
 * [GStreamer Tutorials](https://gstreamer.freedesktop.org/documentation/tutorials/index.html?gi-language=c)
@@ -281,6 +290,8 @@
 * [How to make a Raspberry Pi an RTSP streamer and how to consume this?](https://gist.github.com/lemonlatte/799a43288b0e093f9c95ad83ae4962a3)
 
 * [How to setup an RTSP server on Headless Raspberry Pi and stream RPi Camera data using GStreamer?](https://github.com/mucozcan/rpi-rtsp-stream)
+
+* [Video streaming from Raspberry PI - Python vs. raspivid + netcat](https://stackoverflow.com/questions/54942027/video-streaming-from-raspberry-pi-python-vs-raspivid-netcat)
 
  ----------------
 ## [Product Level](#product-level):
@@ -330,6 +341,8 @@
 
 * [Faster alternatives for calcOpticalFlowSF](https://stackoverflow.com/a/16120630/14884085)
 
+* [Principal Component Analysis | LearnOpenCV](https://learnopencv.com/principal-component-analysis/)
+
 ---
 
 ## [Datasets](#datasets):
@@ -341,6 +354,8 @@
 * [HMDB: a large human motion database](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#overview)
 
 * [UCF101 – Action Recognition Data Set](https://www.crcv.ucf.edu/research/data-sets/ucf101/)
+
+* [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 -------------
 
@@ -373,6 +388,8 @@
 
 * [Lens Focal Length and Stereo Baseline Calculator](https://nerian.com/support/calculator)
 
+* [Lightning: The ultimate PyTorch research framework ](https://pytorchlightning.ai/    )
+
 -------
 
 ## [Linux](#linux)
@@ -380,3 +397,16 @@
 * [Renaming files in a folder to sequential numbers](https://stackoverflow.com/a/34153342)
 
 * [How to Connect to a Raspberry Pi Remotely via SSH](https://howchoo.com/g/mgi3mdnlnjq/how-to-log-in-to-a-raspberry-pi-via-ssh)
+
+* [DebuggingWithGdb](https://wiki.python.org/moin/DebuggingWithGdb)
+
+* [How to fix a broken package, when “apt-get install -f” does not work?](https://askubuntu.com/questions/141370/how-to-fix-a-broken-package-when-apt-get-install-f-does-not-work)
+
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/downloads/stable-systemd/LFS-BOOK-10.1-systemd.pdf)
+
+* [How do I make a RAM disk?](https://askubuntu.com/questions/152868/how-do-i-make-a-ram-disk)
+
+* [Better Than Top: 7 System Monitoring Tools for Linux to Keep an Eye on Vital System Stats](https://itsfoss.com/linux-system-monitoring-tools/)
+
+* [Sharing WiFi Connection over Ethernet on Ubuntu 18.04](https://crookm.com/journal/2018/sharing-wifi-connection-over-ethernet)
+
