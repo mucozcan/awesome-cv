@@ -293,6 +293,9 @@
 
 * [Video streaming from Raspberry PI - Python vs. raspivid + netcat](https://stackoverflow.com/questions/54942027/video-streaming-from-raspberry-pi-python-vs-raspivid-netcat)
 
+* [complete list of ffmpeg flags / commands](https://gist.github.com/tayvano/6e2d456a9897f55025e25035478a3a50)
+
+
  ----------------
 ## [Product Level](#product-level):
 
@@ -357,6 +360,8 @@
 
 * [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
+* [Kinetics: large-scale, high-quality human actions dataset](https://deepmind.com/research/open-source/kinetics)
+
 -------------
 
 ## [Mix of interesting and cool stuff](#mix-content)
@@ -388,7 +393,11 @@
 
 * [Lens Focal Length and Stereo Baseline Calculator](https://nerian.com/support/calculator)
 
-* [Lightning: The ultimate PyTorch research framework ](https://pytorchlightning.ai/    )
+* [Lightning: The ultimate PyTorch research framework ](https://pytorchlightning.ai/)
+
+* [FiftyOne: The open-source tool for building high-quality datasets and computer vision models](https://github.com/voxel51/fiftyone)
+
+* [youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl/)
 
 -------
 
