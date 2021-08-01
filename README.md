@@ -40,7 +40,7 @@
 * [Linux](#linux)
 ---
 
-## [General Sources(Computer Vision)](#general-sources):
+## General Sources(Computer Vision)
 
 * [Computer Vision for Visual Effects (ECSE-6969) Lectures Spring 2014](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a)
 
@@ -52,7 +52,142 @@
 
 
 -------------
-## [Photography and Camera Specs](#cam-specs)
+
+## Digital Image Processing
+* [Intro to Digital Image Processing (ECSE-4540) Lectures, Spring 2015](https://youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
+
+* [Image Processing: What are occlusions?](https://stackoverflow.com/a/2764623/14884085)
+
+* [Ordering coordinates clockwise with Python and OpenCV](https://www.pyimagesearch.com/2016/03/21/ordering-coordinates-clockwise-with-python-and-opencv/)
+
+* [OpenCV Object Tracking](https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/)
+
+* [Principal Component Analysis](https://www.youtube.com/watch?v=M6fBAzcw1Ps)
+
+* [Optical Flow in OpenCV (C++/Python)](https://learnopencv.com/optical-flow-in-opencv/#sparse-optical-flow-lk)
+
+* [Faster alternatives for calcOpticalFlowSF](https://stackoverflow.com/a/16120630/14884085)
+
+* [Principal Component Analysis | LearnOpenCV](https://learnopencv.com/principal-component-analysis/)
+
+---
+
+## Deep Learning
+### General
+* [Machine Learning & Deep Learning Fundamentals](https://youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+* [Dive into Deep Learning](http://d2l.ai/chapter_introduction/index.html)
+
+* [Deep Learning Materials by Deep Learning Wizard](https://github.com/ritchieng/deep-learning-wizard)
+
+* [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.](https://github.com/ritchieng/the-incredible-pytorch)
+
+* [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
+
+### Networks
+
+* #### Convolutional Neural Networks
+
+    * [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+
+    * [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+    * [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
+
+    * [How convolutional neural networks work, in depth](https://www.youtube.com/watch?v=JB8T_zN7ZC0)
+
+    * [Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+    * [What is the vanishing gradient problem?](https://www.quora.com/What-is-the-vanishing-gradient-problem)
+
+    * [Deep Residual Learning for Image Recognition (Paper Explained)](https://www.youtube.com/watch?v=GWt6Fu05voI)
+
+    * [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic#convolution-arithmetic)
+
+    * [A Gentle Introduction to Batch Normalization for Deep Neural Networks](https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/)
+
+
+
+* #### Generative Adversarial Networks 
+  
+    * [A Friendly Introduction to Generative Adversarial Networks ](https://www.youtube.com/watch?v=8L11aMN5KY8)
+
+    * [Image Deblurring using Generative Adversarial Networks](https://github.com/KupynOrest/DeblurGAN)
+
+
+* #### Recurrent Neural Networks
+
+    * [Recurrent Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=yZv_yRgOvMg)
+
+    * [MIT 6.S191: Recurrent Neural Networks](https://www.youtube.com/watch?v=qjrad0V0uJE)
+
+    * [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI)
+
+    * [An introduction to ConvLSTM](https://medium.com/neuronio/an-introduction-to-convlstm-55c9025563a7)
+
+    * [What is the difference between ConvLSTM and CNN LSTM?](https://www.quora.com/What-is-the-difference-between-ConvLSTM-and-CNN-LSTM)
+
+    * [Video Classification with CNN, RNN, and PyTorch](https://medium.com/howtoai/video-classification-with-cnn-rnn-and-pytorch-abe2f9ee031)
+
+    * [PyTorch Implementation of ConvLSTM Cell](https://github.com/jhhuang96/ConvLSTM-PyTorch)
+
+### Problems
+
+* #### Object Detection
+
+    * [Zero to Hero: Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
+
+    * [Non-maximum Suppression (NMS)](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)
+
+    * [Selective Search for Object Detection | R-CNN](https://www.geeksforgeeks.org/selective-search-for-object-detection-r-cnn/)
+
+    * [PyTorch Tutorial to Object Detection.(SSD)](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
+
+    * [Object Detection Accuracy (mAP) Cheat Sheet](https://towardsdatascience.com/object-detection-accuracy-map-cheat-sheet-8f710fd79011)
+
+    * [Tackling the Small Object Problem in Object Detection](https://blog.roboflow.com/detect-small-objects/)
+
+    * [YOLOv4 - Ten Tactics to Build a Better Model](https://blog.roboflow.com/yolov4-tactics/)
+
+    * [The Power of Tiling for Small Object Detection](https://openaccess.thecvf.com/content_CVPRW_2019/papers/UAVision/Unel_The_Power_of_Tiling_for_Small_Object_Detection_CVPRW_2019_paper.pdf)
+
+    * [An Improved Faster R-CNN for Small Object Detection](https://www.researchgate.net/profile/Zengyan-Wu/publication/334904435_An_Improved_Faster_R-CNN_for_Small_Object_Detection/links/5e917edf299bf130798fb809/An-Improved-Faster-R-CNN-for-Small-Object-Detection.pdf)
+
+    * [Real-time Hand-Detection using Neural Networks (SSD) on Tensorflow](https://github.com/victordibia/handtracking)
+
+    * [Object Detection with RetinaNet(Keras)](https://keras.io/examples/vision/retinanet/)
+
+
+* #### Pose/Gaze Estimation
+
+    * [Real time human head pose estimation using TensorFlow and OpenCV](https://github.com/yinguobing/head-pose-estimation)
+
+    * [GazeFollow: Where are they looking?(2015)](http://gazefollow.csail.mit.edu/index.html)
+
+    * [Where are they looking? PyTorch Implementation](https://github.com/rohitgajawada/Where-are-they-looking-PyTorch)
+
+    * [Believe It or Not, We Know What You Are Looking at!(Paper-2018)](https://arxiv.org/pdf/1907.02364.pdf)
+
+    * [Believe It or Not, We Know What You Are Looking at!(PyTorch Implementation)](https://github.com/svip-lab/GazeFollowing)
+
+---
+
+## Datasets
+
+* [Middlebury Stereo Datasets](https://vision.middlebury.edu/stereo/data/)
+
+* [VisDrone Aerial Dataset](https://github.com/VisDrone/VisDrone-Dataset)
+
+* [HMDB: a large human motion database](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#overview)
+
+* [UCF101 – Action Recognition Data Set](https://www.crcv.ucf.edu/research/data-sets/ucf101/)
+
+* [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+
+* [Kinetics: large-scale, high-quality human actions dataset](https://deepmind.com/research/open-source/kinetics)
+
+---
+
+## Photography and Camera Specs
 
 * [Angle of view](https://en.wikipedia.org/wiki/Angle_of_view#Derivation_of_the_angle-of-view_formula)
 
@@ -74,21 +209,9 @@
 
 ---
 
-## [3D Laser Scanning and Structured Light](#3d-laser-scanning-and-structured-light):
 
-* [CVFX Lecture 24: Structured light scanning ](https://www.youtube.com/watch?v=ZC7CIlAVkIA)
 
-* [Third Dimension Youtube Channel](https://www.youtube.com/c/GapGunTV/videos)
-
-* [Udacity Structured light](https://www.youtube.com/watch?v=mSsnf5tqXnA)
-
-* [I3D Past Projects Youtube Channel](https://www.youtube.com/channel/UCFGXYrIrc_27FroFOH36mVw/videos)
-
-* [FabScan PI - An Open-Source 3D Laser Scanner](https://github.com/mariolukas/FabScanPi-Server)
-
----------------
-
-## [Stereo Vision](#stereo-vision): 
+## Stereo Vision 
 * [Object Distance Measurement By Stereo Vision](https://towardsdatascience.com/object-distance-measurement-by-stereo-vision-37897a7ecb62   )
 * [Variants of depth cameras](https://miro.medium.com/max/2000/1*jQFsh5Osm0iPGTUmVyz0yA.png)
 
@@ -140,9 +263,22 @@
 
 * [Large-Field-of-View Stereo for Automotive Applications](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.101.2554&rep=rep1&type=pdf)
 
----------------
+---
+## 3D Laser Scanning and Structured Light
 
-## [Photogrammetry and 3D Reconstruction](#photogrammetry-and-3d-reconstruction):
+* [CVFX Lecture 24: Structured light scanning ](https://www.youtube.com/watch?v=ZC7CIlAVkIA)
+
+* [Third Dimension Youtube Channel](https://www.youtube.com/c/GapGunTV/videos)
+
+* [Udacity Structured light](https://www.youtube.com/watch?v=mSsnf5tqXnA)
+
+* [I3D Past Projects Youtube Channel](https://www.youtube.com/channel/UCFGXYrIrc_27FroFOH36mVw/videos)
+
+* [FabScan PI - An Open-Source 3D Laser Scanner](https://github.com/mariolukas/FabScanPi-Server)
+
+---
+
+## Photogrammetry and 3D Reconstruction
 
 * [Zhaoyang Wang's Homepage](https://sites.google.com/cardinalmail.cua.edu/wangz/)
 
@@ -159,107 +295,9 @@
 * [Deep Learning for “Exotic” Data Like 3D Meshes and Point-Clouds](https://www.youtube.com/watch?v=fY_BzTmU9io)
 
 
-----------------
+---
 
-## [Deep Learning](#deep-learning):
-### [General](#dl-general)
-* [Machine Learning & Deep Learning Fundamentals](https://youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
-* [Dive into Deep Learning](http://d2l.ai/chapter_introduction/index.html)
-
-* [Deep Learning Materials by Deep Learning Wizard](https://github.com/ritchieng/deep-learning-wizard)
-
-* [The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.](https://github.com/ritchieng/the-incredible-pytorch)
-
-* [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
-
-### [CNNs](#cnn-theory)
-
-* [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
-
-* [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-
-* [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
-
-* [How convolutional neural networks work, in depth](https://www.youtube.com/watch?v=JB8T_zN7ZC0)
-
-* [Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-
-* [What is the vanishing gradient problem?](https://www.quora.com/What-is-the-vanishing-gradient-problem)
-
-* [Deep Residual Learning for Image Recognition (Paper Explained)](https://www.youtube.com/watch?v=GWt6Fu05voI)
-
-* [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic#convolution-arithmetic)
-
-* [A Gentle Introduction to Batch Normalization for Deep Neural Networks](https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/)
-
-
-
-### [GANs](#gans)
-  
-* [A Friendly Introduction to Generative Adversarial Networks ](https://www.youtube.com/watch?v=8L11aMN5KY8)
-
-* [Image Deblurring using Generative Adversarial Networks](https://github.com/KupynOrest/DeblurGAN)
-
-
-### [RNNs](#rnns)
-
-* [Recurrent Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=yZv_yRgOvMg)
-
-* [MIT 6.S191: Recurrent Neural Networks](https://www.youtube.com/watch?v=qjrad0V0uJE)
-
-* [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI)
-
-* [An introduction to ConvLSTM](https://medium.com/neuronio/an-introduction-to-convlstm-55c9025563a7)
-
-* [What is the difference between ConvLSTM and CNN LSTM?](https://www.quora.com/What-is-the-difference-between-ConvLSTM-and-CNN-LSTM)
-
-* [Video Classification with CNN, RNN, and PyTorch](https://medium.com/howtoai/video-classification-with-cnn-rnn-and-pytorch-abe2f9ee031)
-
-* [PyTorch Implementation of ConvLSTM Cell](https://github.com/jhhuang96/ConvLSTM-PyTorch)
-
-### [Object Detection](#obj-det)
-
-* [Zero to Hero: Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
-
-* [Non-maximum Suppression (NMS)](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)
-
-* [Selective Search for Object Detection | R-CNN](https://www.geeksforgeeks.org/selective-search-for-object-detection-r-cnn/)
-
-* [PyTorch Tutorial to Object Detection.(SSD)](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
-
-* [Object Detection Accuracy (mAP) Cheat Sheet](https://towardsdatascience.com/object-detection-accuracy-map-cheat-sheet-8f710fd79011)
-
-* [Tackling the Small Object Problem in Object Detection](https://blog.roboflow.com/detect-small-objects/)
-
-* [YOLOv4 - Ten Tactics to Build a Better Model](https://blog.roboflow.com/yolov4-tactics/)
-
-* [The Power of Tiling for Small Object Detection](https://openaccess.thecvf.com/content_CVPRW_2019/papers/UAVision/Unel_The_Power_of_Tiling_for_Small_Object_Detection_CVPRW_2019_paper.pdf)
-
-* [An Improved Faster R-CNN for Small Object Detection](https://www.researchgate.net/profile/Zengyan-Wu/publication/334904435_An_Improved_Faster_R-CNN_for_Small_Object_Detection/links/5e917edf299bf130798fb809/An-Improved-Faster-R-CNN-for-Small-Object-Detection.pdf)
-
-* [Real-time Hand-Detection using Neural Networks (SSD) on Tensorflow](https://github.com/victordibia/handtracking)
-
-* [Object Detection with RetinaNet(Keras)](https://keras.io/examples/vision/retinanet/)
-
-
-### [Pose/Gaze Estimation](#pose-estimation)    
-* [Real time human head pose estimation using TensorFlow and OpenCV](https://github.com/yinguobing/head-pose-estimation)
-
-* [GazeFollow: Where are they looking?(2015)](http://gazefollow.csail.mit.edu/index.html)
-
-* [Where are they looking? PyTorch Implementation](https://github.com/rohitgajawada/Where-are-they-looking-PyTorch)
-
-* [Believe It or Not, We Know What You Are Looking at!(Paper-2018)](https://arxiv.org/pdf/1907.02364.pdf)
-
-* [Believe It or Not, We Know What You Are Looking at!(PyTorch Implementation)](https://github.com/svip-lab/GazeFollowing)
-
-----------------
-## [Math](#math)
-
-* [Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)
-
-----------------
-## [Video Streaming](#video-streaming)
+## Video Streaming
 
 * [GStreamer Tutorials](https://gstreamer.freedesktop.org/documentation/tutorials/index.html?gi-language=c)
 
@@ -271,7 +309,7 @@
 
 * [GStreamer UDP stream examples](https://gist.github.com/reinzor/812a1dadd62dcf2a309c9c99af92244f)
 
-* RTSP test stream URL: rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov
+* [RTSP test stream URL(Big Buck Bunny)](rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov)
 
 * [Install All Essential Media Codecs in Ubuntu With This Single Command ](https://itsfoss.com/install-media-codecs-ubuntu/)
 
@@ -296,8 +334,15 @@
 * [complete list of ffmpeg flags / commands](https://gist.github.com/tayvano/6e2d456a9897f55025e25035478a3a50)
 
 
- ----------------
-## [Product Level](#product-level):
+---
+
+## Math
+
+* [Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+
+---
+
+## Production Level 
 
 * [Optimizing TensorFlow Models for Serving (Google Cloud AI Huddle)](https://www.youtube.com/watch?v=fesdKLTZFBE)
 
@@ -315,73 +360,46 @@
 
 * [NVIDIA Jetson Nano and NVIDIA Jetson AGX Xavier for Kubernetes (K8s) and machine learning (ML) for smart IoT](https://github.com/helmut-hoffer-von-ankershoffen/jetson)
 
+* [Submit it!: a lightweight tool for submitting Python functions for computation within a Slurm cluster](https://github.com/facebookincubator/submitit)
+
 ----------------------------------------------------------------
-## [IoT](#iot):
+## IoT
 * [Eclipse Mosquitto - An open source MQTT broker](https://github.com/eclipse/mosquitto)
 * [MQTT client/broker using Python asynchronous I/O](https://github.com/beerfactory/hbmqtt)
 
 * [Zetta: An API-first, open source software platform for the Internet of Things.](https://github.com/zettajs/zetta)
 ---------------
-## [OOP](#oop):
+## OOP
 * [Interfaces and Metaclasses in Python     ](https://www.godaddy.com/engineering/2018/12/20/python-metaclasses/#:~:text=Unfortunately%2C%20Python%20doesn't%20have,in%20order%20to%20be%20initialized.)
 
 * [Actor Model Design Pattern(Python)](https://pykka.readthedocs.io/en/stable/)
 
-----------------------------------------------------------------
+---
 
-## [Digital Image Processing](#dip):
-* [Intro to Digital Image Processing (ECSE-4540) Lectures, Spring 2015](https://youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
+## Linux
 
-* [Image Processing: What are occlusions?](https://stackoverflow.com/a/2764623/14884085)
+* [Renaming files in a folder to sequential numbers](https://stackoverflow.com/a/34153342)
 
-* [Ordering coordinates clockwise with Python and OpenCV](https://www.pyimagesearch.com/2016/03/21/ordering-coordinates-clockwise-with-python-and-opencv/)
+* [How to Connect to a Raspberry Pi Remotely via SSH](https://howchoo.com/g/mgi3mdnlnjq/how-to-log-in-to-a-raspberry-pi-via-ssh)
 
-* [OpenCV Object Tracking](https://www.pyimagesearch.com/2018/07/30/opencv-object-tracking/)
+* [DebuggingWithGdb](https://wiki.python.org/moin/DebuggingWithGdb)
 
-* [Principal Component Analysis](https://www.youtube.com/watch?v=M6fBAzcw1Ps)
+* [How to fix a broken package, when “apt-get install -f” does not work?](https://askubuntu.com/questions/141370/how-to-fix-a-broken-package-when-apt-get-install-f-does-not-work)
 
-* [Optical Flow in OpenCV (C++/Python)](https://learnopencv.com/optical-flow-in-opencv/#sparse-optical-flow-lk)
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/downloads/stable-systemd/LFS-BOOK-10.1-systemd.pdf)
 
-* [Faster alternatives for calcOpticalFlowSF](https://stackoverflow.com/a/16120630/14884085)
+* [How do I make a RAM disk?](https://askubuntu.com/questions/152868/how-do-i-make-a-ram-disk)
 
-* [Principal Component Analysis | LearnOpenCV](https://learnopencv.com/principal-component-analysis/)
+* [Better Than Top: 7 System Monitoring Tools for Linux to Keep an Eye on Vital System Stats](https://itsfoss.com/linux-system-monitoring-tools/)
+
+* [Sharing WiFi Connection over Ethernet on Ubuntu 18.04](https://crookm.com/journal/2018/sharing-wifi-connection-over-ethernet)
+
+* [How to check if port is in use on Linux or Unix](https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/)
+
 
 ---
 
-## [Datasets](#datasets):
-
-* [Middlebury Stereo Datasets](https://vision.middlebury.edu/stereo/data/)
-
-* [VisDrone Aerial Dataset](https://github.com/VisDrone/VisDrone-Dataset)
-
-* [HMDB: a large human motion database](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#overview)
-
-* [UCF101 – Action Recognition Data Set](https://www.crcv.ucf.edu/research/data-sets/ucf101/)
-
-* [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
-
-* [Kinetics: large-scale, high-quality human actions dataset](https://deepmind.com/research/open-source/kinetics)
-
--------------
-
-## [Mix of interesting and cool stuff](#mix-content)
-
-* [Human Vision](https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2)
-
-* [Mercedes-Benz MAGIC BODY CONTROL | S-Class](https://www.youtube.com/watch?v=ScpgI1w5F6A)
-
-* [LiDAR vs Computer Vision - Why Tesla Autonomy Will Win](youtube.com/watch?v=WGm5Yc4JWug)
-
-* [How AI Powers Self-Driving Tesla with Elon Musk and Andrej Karpathy](https://www.youtube.com/watch?v=FnFksQo-yEY)
-
-* [Andrej Karpathy - AI for Full-Self Driving at Tesla](https://www.youtube.com/watch?v=hx7BXih7zx8)
-
-* [OpenPilot](https://github.com/commaai/openpilot)
-
-* [Yannic Kilcher Youtube Channel](https://www.youtube.com/c/YannicKilcher/videos)
----
-
-## [Tools](#tools)
+## Tools
 
 * [Optuna - A hyperparameter optimization framework](https://optuna.org/)
 
@@ -399,23 +417,25 @@
 
 * [youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl/)
 
--------
+---
 
-## [Linux](#linux)
+## Mix of interesting and cool stuff
 
-* [Renaming files in a folder to sequential numbers](https://stackoverflow.com/a/34153342)
+* [Human Vision](https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2)
 
-* [How to Connect to a Raspberry Pi Remotely via SSH](https://howchoo.com/g/mgi3mdnlnjq/how-to-log-in-to-a-raspberry-pi-via-ssh)
+* [Mercedes-Benz MAGIC BODY CONTROL | S-Class](https://www.youtube.com/watch?v=ScpgI1w5F6A)
 
-* [DebuggingWithGdb](https://wiki.python.org/moin/DebuggingWithGdb)
+* [LiDAR vs Computer Vision - Why Tesla Autonomy Will Win](youtube.com/watch?v=WGm5Yc4JWug)
 
-* [How to fix a broken package, when “apt-get install -f” does not work?](https://askubuntu.com/questions/141370/how-to-fix-a-broken-package-when-apt-get-install-f-does-not-work)
+* [How AI Powers Self-Driving Tesla with Elon Musk and Andrej Karpathy](https://www.youtube.com/watch?v=FnFksQo-yEY)
 
-* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/downloads/stable-systemd/LFS-BOOK-10.1-systemd.pdf)
+* [Andrej Karpathy - AI for Full-Self Driving at Tesla](https://www.youtube.com/watch?v=hx7BXih7zx8)
 
-* [How do I make a RAM disk?](https://askubuntu.com/questions/152868/how-do-i-make-a-ram-disk)
+* [OpenPilot](https://github.com/commaai/openpilot)
 
-* [Better Than Top: 7 System Monitoring Tools for Linux to Keep an Eye on Vital System Stats](https://itsfoss.com/linux-system-monitoring-tools/)
+* [Yannic Kilcher Youtube Channel](https://www.youtube.com/c/YannicKilcher/videos)
 
-* [Sharing WiFi Connection over Ethernet on Ubuntu 18.04](https://crookm.com/journal/2018/sharing-wifi-connection-over-ethernet)
+---
+
+
 
