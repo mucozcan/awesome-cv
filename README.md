@@ -1,43 +1,47 @@
 
 ## Index
 
-* [General Sources(Computer Vision)](#general-sources)
+* [General Sources(Computer Vision)](#general-sourcescomputer-vision)
 
-* [Photography and Camera Specs](#cam-specs)
+* [Digital Image Processing](#digital-image-processing)
 
-* [3D Laser Scanning and Structured Light](#3d-laser-scanning-and-structured-light)
+* [Deep Learning](#deep-learning)
+    * [General](#general)
+    * [Networks](#networks)
+        * [Convolutional Neural Networks](#convolutional-neural-networks)
+        * [Generative Adversarial Networks](#generative-adversarial-networks)
+        * [Recurrent Neural Networks](#recurrent-neural-networks)
+    * [Problems](#problems)
+        * [Object Detection](#object-detection)
+        * [Pose Estimation](#posegaze-estimation)
+        
+* [Datasets](#datasets)
+
+* [Photography and Camera Specs](#photography-and-camera-specs)
 
 * [Stereo Vision](#stereo-vision)
 
+* [3D Laser Scanning and Structured Light](#3d-laser-scanning-and-structured-light)
+
 * [Photogrammetry and 3D Reconstruction](#photogrammetry-and-3d-reconstruction)
-
-* [Deep Learning](#deep-learning)
-    * [General](#dl-general)
-    * [CNNs (Theory)](#cnn-theory)
-    * [Object Detection](#obj-det)
-    * [Pose Estimation](#pose-estimation)
-    * [GANs](#gans)
-    * [RNNs](#rnns)
-
-* [Math](#math)
 
 * [Video Streaming](#video-streaming)
 
-* [Product Level](#product-level)
+* [Math](#math)
+
+* [Production Level](#production-level)
 
 * [IoT](#iot)
 
 * [OOP](#oop)
 
-* [Digital Image Processing](#dip)
 
-* [Datasets](#datasets)
-
-* [Mix of interesting and cool stuff](#mix-content)
+* [Linux](#linux)
 
 * [Tools](#tools)
 
-* [Linux](#linux)
+* [Mix of interesting and cool stuff](#mix-of-interesting-and-cool-stuff)
+
 ---
 
 ## General Sources(Computer Vision)
