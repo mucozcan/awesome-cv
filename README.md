@@ -13,6 +13,7 @@
         * [Recurrent Neural Networks](#recurrent-neural-networks)
     * [Problems](#problems)
         * [Object Detection](#object-detection)
+        * [Image Segmentation](#image-segmentation)
         * [Pose Estimation](#posegaze-estimation)
         
 * [Datasets](#datasets)
@@ -37,6 +38,8 @@
 
 
 * [Linux](#linux)
+
+* [Algorithms(General)](#algorithms)
 
 * [Tools](#tools)
 
@@ -74,10 +77,15 @@
 
 * [Principal Component Analysis | LearnOpenCV](https://learnopencv.com/principal-component-analysis/)
 
+* [Caire: a content aware image resize library](https://github.com/esimov/caire)
+
 ---
 
 ## Deep Learning
 ### General
+
+* [Neural Networks and Deep Learning(Book)](http://neuralnetworksanddeeplearning.com/index.html)
+
 * [Machine Learning & Deep Learning Fundamentals](https://youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 * [Dive into Deep Learning](http://d2l.ai/chapter_introduction/index.html)
 
@@ -87,11 +95,18 @@
 
 * [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 
+* [Effect of Batch Size on Neural Net Training](https://medium.com/deep-learning-experiments/effect-of-batch-size-on-neural-net-training-c5ae8516e57)
+
 ### Networks
 
 * #### Convolutional Neural Networks
+    * [Lecture Collection | Convolutional Neural Networks for Visual Recognition(Stanford)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+    * [Convolutional Neural Networks(Stanford Lecture Notes)](https://cs231n.github.io/convolutional-networks/)
 
     * [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+
+    * [CNN Explainer: Learn Convolutional Neural Network (CNN) in your browser!](https://poloclub.github.io/cnn-explainer/)
 
     * [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
@@ -107,8 +122,11 @@
 
     * [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic#convolution-arithmetic)
 
+    * [Transposed Convolution Demystified](https://towardsdatascience.com/transposed-convolution-demystified-84ca81b4baba)
+    
     * [A Gentle Introduction to Batch Normalization for Deep Neural Networks](https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/)
-
+    
+    * [What is skip architecture in CNN?](https://www.quora.com/What-is-skip-architecture-in-CNN)
 
 
 * #### Generative Adversarial Networks 
@@ -140,6 +158,8 @@
 
     * [Zero to Hero: Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
 
+    * [awesome-object-detection](https://github.com/amusi/awesome-object-detection)
+
     * [Non-maximum Suppression (NMS)](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)
 
     * [Selective Search for Object Detection | R-CNN](https://www.geeksforgeeks.org/selective-search-for-object-detection-r-cnn/)
@@ -160,6 +180,12 @@
 
     * [Object Detection with RetinaNet(Keras)](https://keras.io/examples/vision/retinanet/)
 
+* #### Image Segmentation
+    * [What is Semantic Segmentation, Instance Segmentation, Panoramic segmentation?](https://becominghuman.ai/what-is-semantic-segmentation-instance-segmentation-panoramic-segmentation-3bbb03856c12)
+
+    * [Comparison of Fully Convolutional Networks (FCN) and U-Net for Road Segmentation from High Resolution Imagerie](https://dergipark.org.tr/en/download/article-file/1105454)
+
+    * [Fully Convolutional Networks for Semantic Segmentation(Paper)](https://arxiv.org/pdf/1605.06211v1.pdf)
 
 * #### Pose/Gaze Estimation
 
@@ -172,6 +198,18 @@
     * [Believe It or Not, We Know What You Are Looking at!(Paper-2018)](https://arxiv.org/pdf/1907.02364.pdf)
 
     * [Believe It or Not, We Know What You Are Looking at!(PyTorch Implementation)](https://github.com/svip-lab/GazeFollowing)
+
+---
+
+## Math
+
+* [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+* [Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+
+* [How Gradient Descent Works?](https://www.youtube.com/watch?v=Gbz8RljxIHo)
+
+* [Intuitive crutches for higher dimensional thinking](https://mathoverflow.net/questions/25983/intuitive-crutches-for-higher-dimensional-thinking)
 
 ---
 
@@ -340,11 +378,6 @@
 
 ---
 
-## Math
-
-* [Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)
-
----
 
 ## Production Level 
 
@@ -365,6 +398,10 @@
 * [NVIDIA Jetson Nano and NVIDIA Jetson AGX Xavier for Kubernetes (K8s) and machine learning (ML) for smart IoT](https://github.com/helmut-hoffer-von-ankershoffen/jetson)
 
 * [Submit it!: a lightweight tool for submitting Python functions for computation within a Slurm cluster](https://github.com/facebookincubator/submitit)
+
+* [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
+
+* [MLfLow: Open source platform for the machine learning lifecycle](https://github.com/mlflow/mlflow/)
 
 ----------------------------------------------------------------
 ## IoT
@@ -400,6 +437,11 @@
 
 * [How to check if port is in use on Linux or Unix](https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/)
 
+---
+
+## Algorithms
+
+* [Robust peak detection algorithm (using z-scores)](https://stackoverflow.com/a/22640362/14884085)
 
 ---
 
