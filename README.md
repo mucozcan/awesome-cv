@@ -205,11 +205,17 @@
 
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-* [Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+* [But what is a partial differential equation?](https://www.youtube.com/watch?v=ly4S0oi3Yz8)
+
+* [The gradient](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient)
+
+* [Gradient Descent Derivation](http://mccormickml.com/2014/03/04/gradient-descent-derivation/)
 
 * [How Gradient Descent Works?](https://www.youtube.com/watch?v=Gbz8RljxIHo)
 
 * [Intuitive crutches for higher dimensional thinking](https://mathoverflow.net/questions/25983/intuitive-crutches-for-higher-dimensional-thinking)
+
+* [Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)
 
 ---
 
