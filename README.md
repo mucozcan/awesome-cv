@@ -15,6 +15,8 @@
         * [Object Detection](#object-detection)
         * [Image Segmentation](#image-segmentation)
         * [Pose Estimation](#posegaze-estimation)
+
+* [Math](#math)
         
 * [Datasets](#datasets)
 
@@ -27,8 +29,6 @@
 * [Photogrammetry and 3D Reconstruction](#photogrammetry-and-3d-reconstruction)
 
 * [Video Streaming](#video-streaming)
-
-* [Math](#math)
 
 * [Production Level](#production-level)
 
