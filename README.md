@@ -261,6 +261,12 @@
 
 * [Kinetics: large-scale, high-quality human actions dataset](https://deepmind.com/research/open-source/kinetics)
 
+* [COCO: common objects in context dataset](https://cocodataset.org/#home)
+
+* [DOTA: Dataset for Object Detection in Aerial Images](https://captain-whu.github.io/DOTA/dataset.html)
+
+* [xView: overhead imagery dataset](http://xviewdataset.org/#dataset)
+
 ---
 
 ## Photography and Camera Specs
