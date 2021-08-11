@@ -11,10 +11,12 @@
         * [Convolutional Neural Networks](#convolutional-neural-networks)
         * [Generative Adversarial Networks](#generative-adversarial-networks)
         * [Recurrent Neural Networks](#recurrent-neural-networks)
+        * [Autoencoders](#autoencoders)
     * [Problems](#problems)
         * [Object Detection](#object-detection)
         * [Image Segmentation](#image-segmentation)
         * [Pose Estimation](#posegaze-estimation)
+        * [Anomaly Detection](#anomaly-detection)
 
 * [Math](#math)
         
@@ -97,6 +99,8 @@
 
 * [Effect of Batch Size on Neural Net Training](https://medium.com/deep-learning-experiments/effect-of-batch-size-on-neural-net-training-c5ae8516e57)
 
+* [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/pdf/2108.02497.pdf)
+
 ### Networks
 
 * #### Convolutional Neural Networks
@@ -152,6 +156,13 @@
 
     * [PyTorch Implementation of ConvLSTM Cell](https://github.com/jhhuang96/ConvLSTM-PyTorch)
 
+* #### Autoencoders
+    * [Comprehensive Introduction to Autoencoders](https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368)
+
+    * [What is the main difference between GAN and autoencoder?](https://datascience.stackexchange.com/a/55094)
+
+    * [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+
 ### Problems
 
 * #### Object Detection
@@ -187,6 +198,8 @@
 
     * [Fully Convolutional Networks for Semantic Segmentation(Paper)](https://arxiv.org/pdf/1605.06211v1.pdf)
 
+    * [A survey of loss functions for semantic segmentation](https://arxiv.org/pdf/2006.14822&sa=U&ved=2ahUKEwiAkvmGi9HxAhVuHzQIHblfCuMQFjAMegQIBhAB&usg=AOvVaw2x0YM3LMUXlPAagbiu7jlg)
+
 * #### Pose/Gaze Estimation
 
     * [Real time human head pose estimation using TensorFlow and OpenCV](https://github.com/yinguobing/head-pose-estimation)
@@ -198,6 +211,21 @@
     * [Believe It or Not, We Know What You Are Looking at!(Paper-2018)](https://arxiv.org/pdf/1907.02364.pdf)
 
     * [Believe It or Not, We Know What You Are Looking at!(PyTorch Implementation)](https://github.com/svip-lab/GazeFollowing)
+
+* #### Anomaly Detection
+
+    * [Intro to anomaly detection with OpenCV, Computer Vision, and scikit-learn](https://www.pyimagesearch.com/2020/01/20/intro-to-anomaly-detection-with-opencv-computer-vision-and-scikit-learn/)
+
+    * [Anomaly detection with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/03/02/anomaly-detection-with-keras-tensorflow-and-deep-learning/)
+
+    * [A One-Stage Approach for Surface Anomaly Detection with Background Suppression Strategies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7180796/)
+
+    * [DEEP LEARNING FOR ANOMALY DETECTION: A SURVEY](https://arxiv.org/pdf/1901.03407.pdf)
+    
+### Loss Functions
+
+* [Binary Cross Entropy/Log Loss for Binary Classification](https://www.analyticsvidhya.com/blog/2021/03/binary-cross-entropy-log-loss-for-binary-classification/#:~:text=What%20is%20Binary%20Cross%20Entropy,far%20from%20the%20actual%20value.)  
+
 
 ---
 
