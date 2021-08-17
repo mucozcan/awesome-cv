@@ -157,6 +157,9 @@
     * [PyTorch Implementation of ConvLSTM Cell](https://github.com/jhhuang96/ConvLSTM-PyTorch)
 
 * #### Autoencoders
+
+    * [An Introduction to Autoencoders: Everything You Need to Know](https://www.v7labs.com/bloautoencoders-guide#train-autoencoders)
+
     * [Comprehensive Introduction to Autoencoders](https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368)
 
     * [What is the main difference between GAN and autoencoder?](https://datascience.stackexchange.com/a/55094)
@@ -244,6 +247,8 @@
 * [Intuitive crutches for higher dimensional thinking](https://mathoverflow.net/questions/25983/intuitive-crutches-for-higher-dimensional-thinking)
 
 * [Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+
+* [Find a point on a rotated rectangle with known angle](https://math.stackexchange.com/a/2070220)
 
 ---
 
@@ -476,6 +481,8 @@
 * [Sharing WiFi Connection over Ethernet on Ubuntu 18.04](https://crookm.com/journal/2018/sharing-wifi-connection-over-ethernet)
 
 * [How to check if port is in use on Linux or Unix](https://www.cyberciti.biz/faq/unix-linux-check-if-port-is-in-use-command/)
+
+* [Randomly copy certain amount of certain file type from one directory into another](https://unix.stackexchange.com/questions/217712/randomly-copy-certain-amount-of-certain-file-type-from-one-directory-into-anothe)
 
 ---
 
