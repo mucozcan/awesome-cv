@@ -101,6 +101,8 @@
 
 * [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/pdf/2108.02497.pdf)
 
+* [Mind Mapping for Depth Estimation](https://github.com/sxfduter/monocular-depth-estimation)
+
 ### Networks
 
 * #### Convolutional Neural Networks
@@ -247,6 +249,8 @@
 * [Intuitive crutches for higher dimensional thinking](https://mathoverflow.net/questions/25983/intuitive-crutches-for-higher-dimensional-thinking)
 
 * [Eigenvectors and eigenvalues](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+
+* [Making sense of principal component analysis, eigenvectors & eigenvalues(<3)](https://stats.stackexchange.com/a/140579)
 
 * [Find a point on a rotated rectangle with known angle](https://math.stackexchange.com/a/2070220)
 
