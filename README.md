@@ -199,6 +199,8 @@
 * #### Image Segmentation
     * [What is Semantic Segmentation, Instance Segmentation, Panoramic segmentation?](https://becominghuman.ai/what-is-semantic-segmentation-instance-segmentation-panoramic-segmentation-3bbb03856c12)
 
+    * [Understanding Deep Learning Techniques for Image Segmentation](https://arxiv.org/pdf/1907.06119.pdf)
+
     * [Comparison of Fully Convolutional Networks (FCN) and U-Net for Road Segmentation from High Resolution Imagerie](https://dergipark.org.tr/en/download/article-file/1105454)
 
     * [Fully Convolutional Networks for Semantic Segmentation(Paper)](https://arxiv.org/pdf/1605.06211v1.pdf)
