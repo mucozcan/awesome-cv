@@ -356,6 +356,10 @@
 
 * [Large-Field-of-View Stereo for Automotive Applications](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.101.2554&rep=rep1&type=pdf)
 
+* [Easily Create a Depth Map with Smartphone AR](https://www.andreasjakl.com/easily-create-depth-maps-with-smartphone-ar-part-1/)
+
+* [Choosing Good Stereo Parameters](http://wiki.ros.org/stereo_image_proc/Tutorials/ChoosingGoodStereoParameters)
+
 ---
 ## 3D Laser Scanning and Structured Light
 
