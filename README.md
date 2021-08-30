@@ -458,6 +458,8 @@
 
 * [MLfLow: Open source platform for the machine learning lifecycle](https://github.com/mlflow/mlflow/)
 
+* [Best 8 Machine Learning Model Deployment Tools That You Need to Know](https://neptune.ai/blog/best-8-machine-learning-model-deployment-tools)
+
 ----------------------------------------------------------------
 ## IoT
 * [Eclipse Mosquitto - An open source MQTT broker](https://github.com/eclipse/mosquitto)
@@ -519,6 +521,10 @@
 * [FiftyOne: The open-source tool for building high-quality datasets and computer vision models](https://github.com/voxel51/fiftyone)
 
 * [youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl/)
+
+* [gradio: Demos for your ML Models](https://gradio.app/)
+
+* [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 
 ---
 
