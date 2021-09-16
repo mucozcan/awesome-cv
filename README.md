@@ -196,6 +196,8 @@
 
     * [Object Detection with RetinaNet(Keras)](https://keras.io/examples/vision/retinanet/)
 
+    * [DeepSORT: Deep Learning to Track Custom Objects in a Video](https://nanonets.com/blog/object-tracking-deepsort/)
+
 * #### Image Segmentation
     * [What is Semantic Segmentation, Instance Segmentation, Panoramic segmentation?](https://becominghuman.ai/what-is-semantic-segmentation-instance-segmentation-panoramic-segmentation-3bbb03856c12)
 
@@ -255,6 +257,8 @@
 * [Making sense of principal component analysis, eigenvectors & eigenvalues(<3)](https://stats.stackexchange.com/a/140579)
 
 * [Find a point on a rotated rectangle with known angle](https://math.stackexchange.com/a/2070220)
+
+* [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 ---
 
@@ -460,12 +464,22 @@
 
 * [Best 8 Machine Learning Model Deployment Tools That You Need to Know](https://neptune.ai/blog/best-8-machine-learning-model-deployment-tools)
 
+* [Jetson-Inference: AI Deployment Library & Guide](https://github.com/dusty-nv/jetson-inference)
+
+* [Designing and Testing PyZMQ Applications](https://core.ac.uk/download/pdf/230921415.pdf)
+
 ----------------------------------------------------------------
 ## IoT
 * [Eclipse Mosquitto - An open source MQTT broker](https://github.com/eclipse/mosquitto)
 * [MQTT client/broker using Python asynchronous I/O](https://github.com/beerfactory/hbmqtt)
 
 * [Zetta: An API-first, open source software platform for the Internet of Things.](https://github.com/zettajs/zetta)
+
+* [ØMQ - The Guide](https://zguide.zeromq.org/)
+
+* [Designing and Testing PyZMQ Applications](https://core.ac.uk/download/pdf/230921415.pdf)
+
+
 ---------------
 ## OOP
 * [Interfaces and Metaclasses in Python     ](https://www.godaddy.com/engineering/2018/12/20/python-metaclasses/#:~:text=Unfortunately%2C%20Python%20doesn't%20have,in%20order%20to%20be%20initialized.)
@@ -502,6 +516,8 @@
 
 * [Robust peak detection algorithm (using z-scores)](https://stackoverflow.com/a/22640362/14884085)
 
+* [DeepSORT: Deep Learning to Track Custom Objects in a Video](https://nanonets.com/blog/object-tracking-deepsort/)
+
 ---
 
 ## Tools
@@ -525,6 +541,8 @@
 * [gradio: Demos for your ML Models](https://gradio.app/)
 
 * [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+
+* [pytest: helps you write better programs](https://pytest.org/en/6.2.x/)
 
 ---
 
