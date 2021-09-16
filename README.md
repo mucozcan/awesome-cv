@@ -410,7 +410,7 @@
 
 * [GStreamer UDP stream examples](https://gist.github.com/reinzor/812a1dadd62dcf2a309c9c99af92244f)
 
-* [RTSP test stream URL(Big Buck Bunny)](rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov)
+* RTSP test stream URL(Big Buck Bunny): rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov
 
 * [Install All Essential Media Codecs in Ubuntu With This Single Command ](https://itsfoss.com/install-media-codecs-ubuntu/)
 
@@ -425,8 +425,6 @@
 * [Accelerated GStreamer User Guide](https://developer.download.nvidia.com/embedded/L4T/r32_Release_v1.0/Docs/Accelerated_GStreamer_User_Guide.pdf?i_Y2wpVYeC4aKDkehQNi7nZijaqPu-zUqO228keXSjtyD_7FHVxEAYFmYhzbmT-MgdoAimuP1FuS62KQPIADER2TQ0BaCa0MJNpQLjDYzEzqhZtQEKo6q2RiyXtc4vhbHiUxfvJ8mfLS8Sn-_USkttoqhaLmk5Epe_--Sh4rapNOZ-lHYq8)
 
 * [How to Build Gstreamer RTSP Server](https://askubuntu.com/a/1095607)
-
-* [How to make a Raspberry Pi an RTSP streamer and how to consume this?](https://gist.github.com/lemonlatte/799a43288b0e093f9c95ad83ae4962a3)
 
 * [How to setup an RTSP server on Headless Raspberry Pi and stream RPi Camera data using GStreamer?](https://github.com/mucozcan/rpi-rtsp-stream)
 
