@@ -466,6 +466,8 @@
 
 * [Designing and Testing PyZMQ Applications](https://core.ac.uk/download/pdf/230921415.pdf)
 
+* [A friendly introduction to machine learning compilers and optimizers](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html)
+
 ----------------------------------------------------------------
 ## IoT
 * [Eclipse Mosquitto - An open source MQTT broker](https://github.com/eclipse/mosquitto)
