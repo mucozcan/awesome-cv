@@ -401,7 +401,7 @@
 ---
 ## OCR
 
-*[A comprehensive guide to OCR with Tesseract, OpenCV and Python](https://nanonets.com/blog/ocr-with-tesseract/#gettingboxesaroundtext)
+* [A comprehensive guide to OCR with Tesseract, OpenCV and Python](https://nanonets.com/blog/ocr-with-tesseract/#gettingboxesaroundtext)
 
 ---
 
