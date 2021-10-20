@@ -30,7 +30,7 @@
 
 * [Photogrammetry and 3D Reconstruction](#photogrammetry-and-3d-reconstruction)
 
-*[OCR][#ocr]
+* [OCR][#ocr]
 
 * [Video Streaming](#video-streaming)
 
