@@ -403,6 +403,10 @@
 
 * [A comprehensive guide to OCR with Tesseract, OpenCV and Python](https://nanonets.com/blog/ocr-with-tesseract/#gettingboxesaroundtext)
 
+*[A synthetic data generator for text recognition](https://github.com/Belval/TextRecognitionDataGenerator) 
+
+*[Python-based tools for document analysis and OCR](https://github.com/ocropus/ocropy)
+
 ---
 
 ## Video Streaming
