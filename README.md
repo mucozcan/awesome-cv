@@ -30,6 +30,8 @@
 
 * [Photogrammetry and 3D Reconstruction](#photogrammetry-and-3d-reconstruction)
 
+*[OCR][#ocr]
+
 * [Video Streaming](#video-streaming)
 
 * [Production Level](#production-level)
@@ -395,6 +397,11 @@
 
 * [Deep Learning for “Exotic” Data Like 3D Meshes and Point-Clouds](https://www.youtube.com/watch?v=fY_BzTmU9io)
 
+
+---
+## OCR
+
+*[A comprehensive guide to OCR with Tesseract, OpenCV and Python](https://nanonets.com/blog/ocr-with-tesseract/#gettingboxesaroundtext)
 
 ---
 
