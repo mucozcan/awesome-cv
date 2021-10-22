@@ -160,6 +160,8 @@
 
     * [PyTorch Implementation of ConvLSTM Cell](https://github.com/jhhuang96/ConvLSTM-PyTorch)
 
+    * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
 * #### Autoencoders
 
     * [An Introduction to Autoencoders: Everything You Need to Know](https://www.v7labs.com/bloautoencoders-guide#train-autoencoders)
@@ -403,9 +405,11 @@
 
 * [A comprehensive guide to OCR with Tesseract, OpenCV and Python](https://nanonets.com/blog/ocr-with-tesseract/#gettingboxesaroundtext)
 
-*[A synthetic data generator for text recognition](https://github.com/Belval/TextRecognitionDataGenerator) 
+* [A synthetic data generator for text recognition](https://github.com/Belval/TextRecognitionDataGenerator) 
 
-*[Python-based tools for document analysis and OCR](https://github.com/ocropus/ocropy)
+* [Python-based tools for document analysis and OCR](https://github.com/ocropus/ocropy)
+
+* [Building Custom Deep Learning Based OCR models](https://nanonets.com/blog/attention-ocr-for-text-recogntion/#introduction)
 
 ---
 
