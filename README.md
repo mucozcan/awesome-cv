@@ -105,6 +105,8 @@
 
 * [Mind Mapping for Depth Estimation](https://github.com/sxfduter/monocular-depth-estimation)
 
+* [A Brief Overview of Loss Functions in Pytorch](https://medium.com/udacity-pytorch-challengers/a-brief-overview-of-loss-functions-in-pytorch-c0ddb78068f7)
+
 ### Networks
 
 * #### Convolutional Neural Networks
@@ -135,7 +137,10 @@
     * [A Gentle Introduction to Batch Normalization for Deep Neural Networks](https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/)
     
     * [What is skip architecture in CNN?](https://www.quora.com/What-is-skip-architecture-in-CNN)
-
+    
+    * [Comprehensive look at 1X1 Convolution in Deep Learning](https://medium.com/analytics-vidhya/talented-mr-1x1-comprehensive-look-at-1x1-convolution-in-deep-learning-f6b355825578)
+    
+    
 
 * #### Generative Adversarial Networks 
   
