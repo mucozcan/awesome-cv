@@ -61,6 +61,7 @@
 
 * [Autonomous Vision Group, CVPR 2020 Keynote Talks](https://youtube.com/playlist?list=PLeCNfJWZKqxsIpTbl4e677aOWSnnv5NCm)
 
+* [Cyrill Stachniss Youtube Channel](https://www.youtube.com/c/CyrillStachniss/videos)
 
 -------------
 
