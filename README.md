@@ -12,6 +12,7 @@
         * [Generative Adversarial Networks](#generative-adversarial-networks)
         * [Recurrent Neural Networks](#recurrent-neural-networks)
         * [Autoencoders](#autoencoders)
+        * [Graph Convolutional Networks](#graph-convolutional-networks)
     * [Problems](#problems)
         * [Object Detection](#object-detection)
         * [Image Segmentation](#image-segmentation)
@@ -178,6 +179,11 @@
 
     * [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 
+* #### Graph Convolutional Networks
+    * [Getting the Intuition of Graph Neural Networks](https://medium.com/analytics-vidhya/getting-the-intuition-of-graph-neural-networks-a30a2c34280d)
+    
+    * [Understanding Graph Convolutional Networks for Node Classification](https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b) 
+    
 ### Problems
 
 * #### Object Detection
