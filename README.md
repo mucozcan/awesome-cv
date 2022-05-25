@@ -13,6 +13,7 @@
         * [Recurrent Neural Networks](#recurrent-neural-networks)
         * [Autoencoders](#autoencoders)
         * [Graph Convolutional Networks](#graph-convolutional-networks)
+        * [Temporal Convolutional Networks](#temporal-convolutional-networks)
     * [Problems](#problems)
         * [Object Detection](#object-detection)
         * [Image Segmentation](#image-segmentation)
@@ -183,6 +184,9 @@
     * [Getting the Intuition of Graph Neural Networks](https://medium.com/analytics-vidhya/getting-the-intuition-of-graph-neural-networks-a30a2c34280d)
     
     * [Understanding Graph Convolutional Networks for Node Classification](https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b) 
+  
+* #### Temporal Convolutional Networks
+    * [Temporal Convolutional Networks and Forecasting](https://unit8.com/resources/temporal-convolutional-networks-and-forecasting/)
     
 ### Problems
 
