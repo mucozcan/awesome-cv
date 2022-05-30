@@ -386,6 +386,8 @@
 
 * [Choosing Good Stereo Parameters](http://wiki.ros.org/stereo_image_proc/Tutorials/ChoosingGoodStereoParameters)
 
+* [Camera Projection](https://www.cse.psu.edu/~rtc12/CSE486/lecture12.pdf)
+
 ---
 ## 3D Laser Scanning and Structured Light
 
