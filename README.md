@@ -503,6 +503,8 @@
 
 * [A friendly introduction to machine learning compilers and optimizers](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html)
 
+* [How to consume C++ code in Swift](https://anuragajwani.medium.com/how-to-consume-c-code-in-swift-b4d64a04e989)
+
 ----------------------------------------------------------------
 ## IoT
 * [Eclipse Mosquitto - An open source MQTT broker](https://github.com/eclipse/mosquitto)
